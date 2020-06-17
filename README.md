@@ -17,7 +17,7 @@ Papers are catgorized based on the solution approahces and ordered in time seque
 ### 2. Value RL
 * [Deep Reinforcement Learning meets Graph Neural
 Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1803.08475.pdf?source=post_page---------------------------) Paul Almasan et al. 2020.
-* [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/pdf/1704.01665.pdf) Hanjun Dai, Le Song et al. (GaTech) NeurlIPS 2017.
+* [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/pdf/1704.01665.pdf) Hanjun Dai, Le Song et al. NeurlIPS 2017. (GaTech) 
 
 ### 3. Supervised Learning + Tree Search + Graph Embedding
 * [Combinatorial Optimzation with Graph Convolutional Networks and Guided Tree Search](https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf) Zhuwen Li et al. NeurlIPS 2017.(Intel)
