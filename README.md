@@ -20,12 +20,17 @@ Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1803.
 * [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/pdf/1704.01665.pdf) Hanjun Dai, Le Song et al. (GaTech) NeurlIPS 2017.
 
 ### 3. Supervised Learning + Tree Search + Graph Embedding
-* [Combinatorial Optimzation with Graph Convolutional Networks and Guided Tree Search](https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf) Zhuwen Li (Intel) et al. NeurlIPS 2017. 
+* [Combinatorial Optimzation with Graph Convolutional Networks and Guided Tree Search](https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf) Zhuwen Li et al. NeurlIPS 2017.(Intel)
 
 ## EDA Application Papers:
 Some problems in EDA such as physical design (floorplan, placement, routing, etc.) can be reduced to combinatorial optimization problems. Thus, some of them are solved with RLCO.
+
+* [Attention Routing: track-assignment detailed routing using attention-based reinforcement learning](https://arxiv.org/pdf/2004.09473.pdf) Haiguang Liao et al. 2020 (CMU & Cadence)
+* [Chip Placement with Deep Reinforcement Learning](https://arxiv.org/pdf/2004.10746.pdf) Azalia Mirhoseini et al. 2020 (Google)
  * [Placeto: Learning Generalizable Device Placement
 Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pdf) Ravichandra Addanki et al. 2019 (MIT CSAIL)
 * [GDP: Generalized Device Placement for Dataflow Graphs](https://arxiv.org/pdf/1910.01578.pdf) Yanqi Zhou et al. 2019 (Google Brain)
-* [Chip Placement with Deep Reinforcement Learning](https://arxiv.org/pdf/2004.10746.pdf) Azalia Mirhoseini et al. 2019 (Google)
+* [A Deep Reinforcement Learning Approach for Global Routing](https://arxiv.org/pdf/1906.08809.pdf) Haiguang Liao et al. 2019 (CMU)
+
+
 
