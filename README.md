@@ -1,13 +1,13 @@
 # RLCO-Papers
 
-Reinforcement Learning based combinatorial optimization (RLCO) is a very interesting research area. 
-Combinatorial Optimization Problems include: Travelling Salesman Problem (TSP), Vehicle Routing Problem (VRP), Orienteering Problem, Knapsack Problem, Maximal Independent Set (MIS), Minimum Vertex Cover (MVC), Maximal Clique (MC), Intger Linear Programming (ILP), Routing, EDA domain problems. Most of them are NP-hard. 
+Reinforcement Learning based combinatorial optimization (**RLCO**) is a very interesting research area. 
+Combinatorial Optimization Problems include: Travelling Salesman Problem (**TSP**), Vehicle Routing Problem (**VRP**), Orienteering Problem, Knapsack Problem, Maximal Independent Set (**MIS**), Maximum Cut (**MC**), Minimum Vertex Cover (**MVC**), Maximal Clique (**MC**), Intger Linear Programming (**ILP**), Routing, **EDA** domain problems. Most of them are NP-hard. 
 Combinatorial Problems can traditionally be solved by: exact method, heuristics-based method
 
 This is a collection of resaerch papers of RLCO. Papers are sorted by time and categories. Some related supervised learning papers are also listed as a reference.
 
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Haiguang Liao]  (Email: haiguanl [AT] andrew.cmu.edu).
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Haiguang Liao]  (Email: haiguanl [AT] andrew.cmu.edu). Feedbacks on any mistakes on the repo are also welcomed
 
 ## Research Papers:
 Papers are catgorized based on the solution approahces and ordered in time sequence:
@@ -16,8 +16,9 @@ Papers are catgorized based on the solution approahces and ordered in time seque
 
 ### 2. Value RL
 * [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf?source=post_page---------------------------) Max Welling et al. ICLR 2019. (Architecture: GNN)
+* [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/pdf/1704.01665.pdf) Hanjun Dai, Le Song et al. (GaTech) NeurlIPS 2017.
 
-### 3. Supervised Learning + Tree Search + GNN
+### 3. Supervised Learning + Tree Search + Graph Embedding
 * [Deep Reinforcement Learning meets Graph Neural
 Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1910.07421.pdf) Paul Almasan et al. NeurlIPS 2017. 
 
