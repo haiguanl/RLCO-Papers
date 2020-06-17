@@ -2,9 +2,9 @@
 
 Reinforcement Learning based combinatorial optimization (**RLCO**) is a very interesting research area. 
 Combinatorial Optimization Problems include: Travelling Salesman Problem (**TSP**), Vehicle Routing Problem (**VRP**), Orienteering Problem, Knapsack Problem, Maximal Independent Set (**MIS**), Maximum Cut (**MC**), Minimum Vertex Cover (**MVC**), Maximal Clique (**MC**), Intger Linear Programming (**ILP**), Routing, **EDA** domain problems. Most of them are NP-hard. 
-Combinatorial Problems can traditionally be solved by: exact method, heuristics-based method
+Combinatorial Problems can traditionally be solved by: exact method, heuristics-based method, etc. Recently, better learning-based solvers are coming out. 
 
-This is a collection of resaerch papers of RLCO. Papers are sorted by time and categories. Some related supervised learning papers are also listed as a reference.
+This is a collection of resaerch & application papers of RLCO. Papers are sorted by time and categories. Some related supervised learning papers are also listed as a reference.
 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Haiguang Liao]  (Email: haiguanl [AT] andrew.cmu.edu). Feedbacks on any mistakes on the repo are also welcomed
