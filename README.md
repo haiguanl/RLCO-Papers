@@ -32,7 +32,9 @@ Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1803.
 ### 3. Supervised Learning + Tree Search + Graph Embedding
 * [Combinatorial Optimzation with Graph Convolutional Networks and Guided Tree Search](https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf) Zhuwen Li et al. NeurlIPS 2017 (Intel)
 
-## Electronic Design Automation (EDA) Application Papers:
+## Application Papers:
+Papers are catgorized based on the application domains and ordered in time sequence:
+### 1. Electronic Design Automation (EDA)
 EDA is not easy. Some problems in EDA such as physical design (**floorplan**, **placement**, **routing**, etc.) can be reduced to combinatorial optimization problems. Thus, some of them are solved with RLCO.
 
 * [Attention Routing: track-assignment detailed routing using attention-based reinforcement learning](https://arxiv.org/pdf/2004.09473.pdf) Haiguang Liao et al. 2020 (CMU & Cadence)
