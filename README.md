@@ -9,6 +9,10 @@ This is a collection of resaerch & application papers of RLCO. Papers are sorted
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Haiguang Liao]  (Email: haiguanl [AT] andrew.cmu.edu). Feedbacks on any mistakes on the repo are also welcomed
 
+## Review Papers:
+* [Reinforcement Learning for Combinatorial Optimization: A Survey
+](https://arxiv.org/pdf/2003.03600.pdf) Nina Mazyavkina et al. (Skolkovo Institute of Science and Technology, Russia)
+
 ## Research Papers:
 Papers are catgorized based on the solution approahces and ordered in time sequence:
 ### 1. Policy RL + (GNN)
