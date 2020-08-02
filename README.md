@@ -22,6 +22,7 @@ Papers are catgorized based on the solution approahces and ordered in time seque
 * [Learning to Solve Combinatorial Optimization
 Problems on Real-World Graphs in Linear Time](https://arxiv.org/pdf/2006.03750.pdf) Iddo Drori et al. 2020
 * [Reinforcement Learning Driven Heuristic Optimization](https://arxiv.org/pdf/1906.06639.pdf) Qingpeng Cai, Azalia Mirhoseini et al. DRL4KDD 2019 (Tsinghua University, Google Brain, Google AI)
+* [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf) Irwan Bello et al. ICLR 2017 (Google Brain)
 
 
 ### 2. Value RL + (GNN)
