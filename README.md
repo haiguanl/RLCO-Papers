@@ -52,4 +52,6 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 ### 1. MLCO (Machine Learning for Combinatorial Optimization)
 * [Machine learning for combinatorial optimization: a methodological tour d’horizon](https://arxiv.org/pdf/1811.06128.pdf) Yoshua Bengio et al. 2020 (Universit´e de Montr´eal, etc.)
 * [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/2005.11081.pdf) Natalia Vesselinova et al. 2020
+### 2. ILCO (Imitation for Combinatorial Optimization)
+* [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/1906.01629.pdf) Maxime Gasse et al. NeurlIPS 2019 (Mila, Polytechnique Montréal, etc.)
 
