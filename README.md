@@ -38,6 +38,8 @@ Papers are catgorized based on the application domains and ordered in time seque
 ### 1. Electronic Design Automation (EDA)
 EDA is not easy. Some problems in EDA such as physical design (**floorplan**, **placement**, **routing**, etc.) can be reduced to combinatorial optimization problems. Thus, some of them are solved with RLCO.
 
+* [AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs
+](https://arxiv.org/pdf/2001.01808.pdf) Keertana Settaluri et al. 2020 (UC Berkeley)
 * [Attention Routing: track-assignment detailed routing using attention-based reinforcement learning](https://arxiv.org/pdf/2004.09473.pdf) Haiguang Liao et al. 2020 (CMU & Cadence)
 * [Chip Placement with Deep Reinforcement Learning](https://arxiv.org/pdf/2004.10746.pdf) Azalia Mirhoseini et al. 2020 (Google)
 * [Placement Optimization with Deep Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3372780.3378174
@@ -49,10 +51,12 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 * [A Hierarchical Model for Device Placement](https://arxiv.org/pdf/1906.06639.pdf) Azalia Mirhoseini et al. ICLR 2018 (Google)
 * [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) Azalia Mirhoseini et al. ICML 2017 (Google Brain)
  
+ 
  ## Related Papers:
 ### 1. MLCO (Machine Learning for Combinatorial Optimization)
 * [Machine learning for combinatorial optimization: a methodological tour d’horizon](https://arxiv.org/pdf/1811.06128.pdf) Yoshua Bengio et al. 2020 (Universit´e de Montr´eal, etc.)
 * [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/2005.11081.pdf) Natalia Vesselinova et al. 2020
 ### 2. ILCO (Imitation for Combinatorial Optimization)
-* [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/1906.01629.pdf) Maxime Gasse et al. NeurlIPS 2019 (Mila, Polytechnique Montréal, etc.)
+* [Exact Combinatorial Optimization
+with Graph Convolutional Neural Networks](https://arxiv.org/pdf/1906.01629.pdf) Maxime Gasse et al. NeurlIPS 2019 (Mila, Polytechnique Montréal, etc.)
 
