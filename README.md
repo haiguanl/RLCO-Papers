@@ -36,7 +36,7 @@ Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1803.
 ## Application Papers:
 Papers are catgorized based on the application domains and ordered in time sequence:
 ### 1. Electronic Design Automation (EDA)
-EDA is not easy. Some problems in EDA such as physical design (**floorplan**, **placement**, **routing**, etc.) can be reduced to combinatorial optimization problems. Thus, some of them are solved with RLCO.
+EDA is not easy. Some problems in EDA such as physical design (**floorplan**, **placement**, **routing**, etc.) can be formulated as combinatorial optimization problems. Thus, some of them are solved with RLCO.
 
 * [AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs
 ](https://arxiv.org/pdf/2001.01808.pdf) Keertana Settaluri et al. 2020 (UC Berkeley)
