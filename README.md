@@ -51,6 +51,12 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 * [A Hierarchical Model for Device Placement](https://arxiv.org/pdf/1906.06639.pdf) Azalia Mirhoseini et al. ICLR 2018 (Google)
 * [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf) Azalia Mirhoseini et al. ICML 2017 (Google Brain)
  
+ ### 2. Path Planning (Routing)
+ RL has been extensively applied to robotic path planning, the papers listed here are only a tiny subset of those we think relevent to RLCO. 
+* [Multi-Agent Routing Value Iteration Network](Paper: https://arxiv.org/pdf/2007.05096.pdf) Quinlan Sykora et al. PMLR 2020 (Uber)
+ * [Value Iteration Networks](Paper: https://arxiv.org/pdf/1602.02867.pdf, Code: https://github.com/kentsommer/pytorch-value-iteration-networks) Aviv Tamar et al. NeurlIPS 2016 (UC Berkeley)
+
+
  
  ## Related Papers:
 ### 1. MLCO (Machine Learning for Combinatorial Optimization)
