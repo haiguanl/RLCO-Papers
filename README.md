@@ -53,8 +53,8 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
  
  ### 2. Path Planning (Routing)
  RL has been extensively applied to robotic path planning, the papers listed here are only a tiny subset of those we think relevent to RLCO. 
-* [Multi-Agent Routing Value Iteration Network](Paper: https://arxiv.org/pdf/2007.05096.pdf) Quinlan Sykora et al. PMLR 2020 (Uber)
- * [Value Iteration Networks](Paper: https://arxiv.org/pdf/1602.02867.pdf, Code: https://github.com/kentsommer/pytorch-value-iteration-networks) Aviv Tamar et al. NeurlIPS 2016 (UC Berkeley)
+* [Multi-Agent Routing Value Iteration Network](https://arxiv.org/pdf/2007.05096.pdf) Quinlan Sykora et al. PMLR 2020 (Uber)
+ * [Value Iteration Networks](https://arxiv.org/pdf/1602.02867.pdf) (Code: https://github.com/kentsommer/pytorch-value-iteration-networks) Aviv Tamar et al. NeurlIPS 2016 (UC Berkeley)
 
 
  
