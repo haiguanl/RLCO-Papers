@@ -56,6 +56,10 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 * [Multi-Agent Routing Value Iteration Network](https://arxiv.org/pdf/2007.05096.pdf) Quinlan Sykora et al. PMLR 2020 (Uber)
  * [Value Iteration Networks](https://arxiv.org/pdf/1602.02867.pdf) (Code: https://github.com/kentsommer/pytorch-value-iteration-networks) Aviv Tamar et al. NeurlIPS 2016 (UC Berkeley)
 
+ ### 3. Resource Management
+ * [Resource Management with Deep Reinforcement Learning](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/papers/mao_HOTNETS_2016.pdf) Hongzi Mao et al. ACM_HotNets 2016 (MIT & Microsoft Research)
+
+
 
  
  ## Related Papers:
