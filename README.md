@@ -20,7 +20,7 @@ Papers are catgorized based on the solution approahces and ordered in time seque
 * [Learning to Perform Local Rewriting for Combinatorial Optimization](https://arxiv.org/pdf/1810.00337.pdf) Xinyun Chen, Yuandong Tian. NeurIPS 2019 (UC Berkeley & Facebook AI Research)
 * [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf?source=post_page---------------------------) Max Welling et al. ICLR 2019. (Architecture: Graph Attention Network)
 * [Learning to Solve Combinatorial Optimization
-Problems on Real-World Graphs in Linear Time](https://arxiv.org/pdf/2006.03750.pdf) Iddo Drori et al. 2020 (Columbina University, Cornell University)
+Problems on Real-World Graphs in Linear Time](https://arxiv.org/pdf/2006.03750.pdf) Iddo Drori et al. 2020 (Columbia University, Cornell University)
 * [Reinforcement Learning Driven Heuristic Optimization](https://arxiv.org/pdf/1906.06639.pdf) Qingpeng Cai, Azalia Mirhoseini et al. DRL4KDD 2019 (Tsinghua University, Google Brain, Google AI)
 * [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf) Irwan Bello et al. ICLR 2017 (Google Brain)
 
