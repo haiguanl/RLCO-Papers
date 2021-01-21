@@ -16,9 +16,10 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers:
 Papers are catgorized based on the solution approahces and ordered in time sequence:
 ### 1. Policy RL + (GNN)
-* [Reinforcement Learning for Integer Programming- Learning to Cut](https://proceedings.icml.cc/static/paper_files/icml/2020/943-Paper.pdf) Yunhao Tang et al. ICML 2020. (Columbia University)
+* [POMO: Policy Optimization with Multiple Optima for Reinforcement Learning](https://arxiv.org/pdf/2010.16011.pdf) Yeong-Dae Kwon et al. NeurIPS 2020 (Samsung SDS)
+* [Reinforcement Learning for Integer Programming- Learning to Cut](https://proceedings.icml.cc/static/paper_files/icml/2020/943-Paper.pdf) Yunhao Tang et al. ICML 2020 (Columbia University)
 * [Learning to Perform Local Rewriting for Combinatorial Optimization](https://arxiv.org/pdf/1810.00337.pdf) Xinyun Chen, Yuandong Tian. NeurIPS 2019 (UC Berkeley & Facebook AI Research)
-* [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf?source=post_page---------------------------) Max Welling et al. ICLR 2019. (Architecture: Graph Attention Network)
+* [Attention, Learn to Solve Routing Problems!](https://arxiv.org/pdf/1803.08475.pdf?source=post_page---------------------------) Max Welling et al. ICLR 2019 (Architecture: Graph Attention Network)
 * [Learning to Solve Combinatorial Optimization
 Problems on Real-World Graphs in Linear Time](https://arxiv.org/pdf/2006.03750.pdf) Iddo Drori et al. 2020 (Columbia University, Cornell University)
 * [Reinforcement Learning Driven Heuristic Optimization](https://arxiv.org/pdf/1906.06639.pdf) Qingpeng Cai, Azalia Mirhoseini et al. DRL4KDD 2019 (Tsinghua University, Google Brain, Google AI)
