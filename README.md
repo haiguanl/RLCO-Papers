@@ -37,7 +37,7 @@ Networks: exploring a routing optimization use case](https://arxiv.org/pdf/1803.
 Papers are catgorized based on the application domains and ordered in time sequence:
 ### 1. Electronic Design Automation (EDA)
 EDA is not easy. Some problems in EDA such as physical design (**floorplan**, **placement**, **routing**, etc.) can be formulated as combinatorial optimization problems. Thus, some of them are solved with RLCO.
-
+* [Track-Assignment Detailed Routing Using Attention-based Policy Model With Supervision](https://arxiv.org/pdf/2010.13702.pdf) Haiguang Liao et al. 2020 (CMU & Cadence)
 * [AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs
 ](https://arxiv.org/pdf/2001.01808.pdf) Keertana Settaluri et al. 2020 (UC Berkeley)
 * [Attention Routing: track-assignment detailed routing using attention-based reinforcement learning](https://arxiv.org/pdf/2004.09473.pdf) Haiguang Liao et al. 2020 (CMU & Cadence)
