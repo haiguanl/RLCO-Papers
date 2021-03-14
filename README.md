@@ -60,8 +60,6 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
  ### 3. Resource Management
  * [Resource Management with Deep Reinforcement Learning](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/papers/mao_HOTNETS_2016.pdf) Hongzi Mao et al. ACM_HotNets 2016 (MIT & Microsoft Research)
 
-
-
  
  ## Related Papers:
 ### 1. MLCO (Machine Learning for Combinatorial Optimization)
@@ -70,4 +68,24 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 ### 2. ILCO (Imitation for Combinatorial Optimization)
 * [Exact Combinatorial Optimization
 with Graph Convolutional Neural Networks](https://arxiv.org/pdf/1906.01629.pdf) Maxime Gasse et al. NeurlIPS 2019 (Mila, Polytechnique Montréal, etc.)
+### 3. GNN and CO
+* .[Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/pdf/2102.09544.pdf)
 
+
+ ## Relevant Resources:
+ ### Frameworks:
+ 1. PyTorch Geometric [https://arxiv.org/pdf/1903.02428.pdf] (TU Dortmund University)
+ 2. Deep Graph Library [https://arxiv.org/pdf/1909.01315.pdf] (Amazon Web Services, AWS Shanghai AI Lab, New York University, NYU Shanghai)
+
+ ### Libraries:
+ 1. Facilate the learning of heuristics for CO problems similar to OpenAI Gym.
+ * .[OR-Gym][https://arxiv.org/pdf/2008.06319.pdf] (CMU)
+ * [OpenGraphGym][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302566/] 
+ 2. Facilitate the learning of configuration parameters for CO solvers. 
+ * [MIPLLearn][https://anl-ceeesa.github.io/ MIPLearn.]
+ 3. Offering a general, extensible framework for implementing and evaluating machine learning-enhanced CO, also based on OpenAI Gym. 
+ * [Ecole][https://arxiv.org/pdf/2011.06069.pdf] (Mila, Polytechnique Montréal)
+ ### Environments/Problems:
+ 
+ 
+ 
