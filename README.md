@@ -69,7 +69,7 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
 * [Exact Combinatorial Optimization
 with Graph Convolutional Neural Networks](https://arxiv.org/pdf/1906.01629.pdf) Maxime Gasse et al. NeurlIPS 2019 (Mila, Polytechnique Montréal, etc.)
 ### 3. GNN and CO
-* .[Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/pdf/2102.09544.pdf)
+* [Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/pdf/2102.09544.pdf) Quentin Cappart et al. (Polytechnique Montréal, UToronto, Deep Mind, etc.)
 
 
  ## Relevant Resources:
