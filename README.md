@@ -61,7 +61,7 @@ Algorithms for Distributed Machine Learning](https://arxiv.org/pdf/1906.08879.pd
  * [Resource Management with Deep Reinforcement Learning](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/papers/mao_HOTNETS_2016.pdf) Hongzi Mao et al. ACM_HotNets 2016 (MIT & Microsoft Research)
 
  
- ## Related Papers:
+ ## Relevant Papers:
 ### 1. MLCO (Machine Learning for Combinatorial Optimization)
 * [Machine learning for combinatorial optimization: a methodological tour d’horizon](https://arxiv.org/pdf/1811.06128.pdf) Yoshua Bengio et al. 2020 (Universit´e de Montr´eal, etc.)
 * [Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking](https://arxiv.org/pdf/2005.11081.pdf) Natalia Vesselinova et al. 2020
