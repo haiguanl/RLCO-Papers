@@ -79,12 +79,12 @@ with Graph Convolutional Neural Networks](https://arxiv.org/pdf/1906.01629.pdf) 
 
  ### Libraries:
  1. Facilate the learning of heuristics for CO problems similar to OpenAI Gym.
- * .[OR-Gym][https://arxiv.org/pdf/2008.06319.pdf] (CMU)
- * [OpenGraphGym][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302566/] 
+ * [OR-Gym](https://arxiv.org/pdf/2008.06319.pdf) (CMU)
+ * [OpenGraphGym](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302566/) 
  2. Facilitate the learning of configuration parameters for CO solvers. 
- * [MIPLLearn][https://anl-ceeesa.github.io/ MIPLearn.]
+ * [MIPLLearn](https://anl-ceeesa.github.io/ MIPLearn.)
  3. Offering a general, extensible framework for implementing and evaluating machine learning-enhanced CO, also based on OpenAI Gym. 
- * [Ecole][https://arxiv.org/pdf/2011.06069.pdf] (Mila, Polytechnique Montréal)
+ * [Ecole](https://arxiv.org/pdf/2011.06069.pdf) (Mila, Polytechnique Montréal)
  ### Environments/Problems:
  
  
