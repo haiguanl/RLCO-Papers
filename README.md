@@ -74,8 +74,8 @@ with Graph Convolutional Neural Networks](https://arxiv.org/pdf/1906.01629.pdf) 
 
  ## Relevant Resources:
  ### Frameworks:
- 1. PyTorch Geometric [https://arxiv.org/pdf/1903.02428.pdf] (TU Dortmund University)
- 2. Deep Graph Library [https://arxiv.org/pdf/1909.01315.pdf] (Amazon Web Services, AWS Shanghai AI Lab, New York University, NYU Shanghai)
+ 1. [PyTorch Geometric](https://arxiv.org/pdf/1903.02428.pdf) (TU Dortmund University)
+ 2. [Deep Graph Library](https://arxiv.org/pdf/1909.01315.pdf) (Amazon Web Services, AWS Shanghai AI Lab, New York University, NYU Shanghai)
 
  ### Libraries:
  1. Facilate the learning of heuristics for CO problems similar to OpenAI Gym.
